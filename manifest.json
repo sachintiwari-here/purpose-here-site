@@ -1,0 +1,18 @@
+{
+  "name": "Purpose Here",
+  "short_name": "Purpose Here",
+  "description": "Sachin Tiwari builds apps from zero — Bazaar and what's next.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#E85D2C",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
